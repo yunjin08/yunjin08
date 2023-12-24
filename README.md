@@ -1,4 +1,4 @@
-![logo](https://github.com/yunjin08/yunjin08/blob/main/How-to-become-a-full-stack-developer.gif)
+![MasterHead](https://github.com/yunjin08/yunjin08/blob/main/How-to-become-a-full-stack-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
