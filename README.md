@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)]
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)
 
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
