@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/yunjin08/yunjin08/blob/main/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
