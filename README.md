@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![MasterHead](https://webitexperts.com/images/banner1_1.gif)
 
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
