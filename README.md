@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jed-donaire.vercel.app](https://jed-donaire.vercel.app)
 
-- 💬 Ask me about **MERN and Nextjs**
+- 💬 Ask me about **MERN and MEVN**
 
 - 📫 How to reach me **jed.donaire08@gmail.com**
 
