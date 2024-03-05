@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working at **BPOSEATS**
 
-- 🌱 I’m currently learning **vuejs and django**
+- 🔭 I'm currently developing **Beacon**, a career path guide powered by GPT4 using Langchain
+
+- 🌱 I’m currently learning **AI and Langchain**
 
 - 👨‍💻 All of my projects are available at [https://jed-donaire.vercel.app](https://jed-donaire.vercel.app)
 
