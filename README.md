@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **AI and Langchain**
 
-- 👨‍💻 All of my projects are available at [https://jed-donaire.vercel.app](https://jed-donaire.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jed-edison.com](https://jed-edison.com)
 
-- 💬 Ask me about **MERN and MEVN**
+- 💬 Ask me about **Full Stack Development with Expertise on Frontend Development on animations and design**
 
 - 📫 How to reach me **jed.donaire08@gmail.com**
 
-- 📄 Know about my experiences [https://jed-donaire.vercel.app/resume.pdf](https://jed-donaire.vercel.app/resume.pdf)
+- 📄 Know about my experiences [https://jed-edison.com/resume.pdf](https://jed-edison.com/cv.pdf)
 
-- ⚡ Fun fact **I enjoy being pressured**
+- ⚡ Fun fact **I enjoy being on work and contribute to the team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
