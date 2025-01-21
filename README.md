@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
 
--🔭 I’m currently working at Scalema as a Part-timer and also at Tranches as a part timerco
+- 🔭 I’m currently working at Scalema as a Part-timer and also at Tranches as a part timer
+
+- 🔭 I am looking for opportunities to expand my skills
 
 - 🔭 I'm currently developing a mobile application using Django and React Native Expo
 
