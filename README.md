@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently developing a mobile application using Django and React Native Expo
 
-- 🌱 I’m currently learning **AI and Cloud Infrastructure*
+- 🌱 I’m currently learning AI and Cloud Infrastructure*
 
 - 👨‍💻 All of my projects are available at [https://jed-edison.com](https://jed-edison.com)
 
