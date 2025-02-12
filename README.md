@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jed-edison.com](https://jed-edison.com)
 
-- 💬 Ask me about **Full Stack Development with Expertise on Frontend Development on animations and design**
+- 💬 Ask me about **Full Stack Development, Cloud infrastructure, and AI related concepts**
 
 - 📫 How to reach me **jed.donaire08@gmail.com**
 
