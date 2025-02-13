@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
-<h3 align="center">A passionate full stack developer from University of the Philippines Cebu</h3>
+<h3 align="center">A passionate Software Engineer from the Philippines</h3>
 
 - 🔭 I’m currently working at Scalema as a Part-timer and also at Tranches as a part timer
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://jed-edison.com/resume.pdf](https://jed-edison.com/cv.pdf)
 
-- ⚡ Fun fact **I enjoy being on work and contribute to the team**
+- ⚡ Fun fact **I enjoy pressuring myself to the point that I no longer know what a normal day is**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
