@@ -7,7 +7,7 @@
 
 - 🔭 I am looking for opportunities to expand my skills
 
-- 🔭 I'm currently developing a tax Deduction mobile application using Django and React Native Expo
+- 🔭 I'm currently developing a tax Deduction mobile application using Django, React Native Expo, Langchaing for LLM's used which are Deepseek and OpenAI
 
 - 🌱 I’m currently learning AI and Cloud Infrastructure*
 
