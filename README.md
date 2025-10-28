@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working at Netlify as a Software Engineer and also at Tranches as an Automations Engineer
+- 🔭 I’m currently working at Netlify and Tranches as a Software Engineer
 
 - 🔭 I am looking for opportunities to expand my skills
 
-- 🔭 I'm currently developing a tax Deduction mobile application using Django, React Native Expo, Langchain for LLM's used which are Deepseek and OpenAI
+- 🔭 I'm currently conducting my thesis on code evaulation using Machine Learning and Policy-as-a-Code architecture.
 
 - 🌱 I’m currently learning AI and Cloud Infrastructure*
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://jed-edison.com/resume.pdf](https://jed-edison.com/cv.pdf)
 
-- ⚡ Fun fact **I enjoy pressuring myself to the point that I no longer know what a normal day is**
+- ⚡ Fun fact **I enjoy going to the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
