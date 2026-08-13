@@ -13,10 +13,4 @@
 
 - ⚡ Fun fact **I enjoy going to the gym**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jed edison donaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jed edison donaire" height="30" width="40" /></a>
-<a href="https://instagram.com/don.jedison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don.jedison" height="30" width="40" /></a>
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunjin08" alt="yunjin08" /></p>
