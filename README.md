@@ -3,15 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working at Netlify and Tranches as a Software Engineer
-
-- 🔭 I am looking for opportunities to expand my skills
-
-- 🔭 I'm currently conducting my thesis on code evaulation using Machine Learning and Policy-as-a-Code architecture.
-
-- 🌱 I’m currently learning AI and Cloud Infrastructure*
-
-- 👨‍💻 All of my projects are available at [https://jed-edison.com](https://jed-edison.com)
+- 🔭 I’m currently working at Netlify as a Software Engineer
 
 - 💬 Ask me about **Full Stack Development, Cloud infrastructure, and AI related concepts**
 
