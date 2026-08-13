@@ -1,8 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
-<h1 align="center">Hi 👋, I'm Jed Edison Donaire</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-
 - 🔭 I’m currently working at Netlify as a Software Engineer
 
 - 💬 Ask me about **Full Stack Development, Cloud infrastructure, and AI related concepts**
