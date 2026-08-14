@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
-- 🔭 I’m currently working at Netlify as a Software Engineer
+- 🔭 I’m currently working at Netlify as a Software Engineer https://github.com/jeddonaire08
 
 - 💬 Ask me about **Full Stack Development, Cloud infrastructure, and AI related concepts**
 
